@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Linux Kernel Vulnerability Dataset: 125,183 bug-fix pairs from 20 years of git history"
+abstract: "Bug-fix pairs mined from Linux kernel git history (2005-2025) via Fixes: tags, labelled with lifetime, subsystem, bug class, and CVE linkage."
+authors:
+  - family-names: Qu
+    given-names: Jenny Guanni
+license: MIT
+repository-code: "https://github.com/quguanni/kernel-vuln-data"
+url: "https://huggingface.co/datasets/quguanni/kernel-vuln-dataset"
+date-released: 2026-01-06
+keywords:
+  - linux-kernel
+  - vulnerabilities
+  - software-security
+  - mining-software-repositories
