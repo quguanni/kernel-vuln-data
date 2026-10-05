@@ -97,4 +97,4 @@ MIT
 
 ## Contact
 
-Jenny Guanni Qu - jenny@pebblebed.com
+Jenny Guanni Qu — [quguanni.com](https://quguanni.com)
